@@ -1,3 +1,4 @@
 streamlit
-python-pptx
 openai
+python-pptx
+python-dotenv
